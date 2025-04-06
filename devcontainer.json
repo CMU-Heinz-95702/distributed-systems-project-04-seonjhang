@@ -1,0 +1,7 @@
+{
+  "name": "java-tomcat",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [8080]
+}
